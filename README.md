@@ -1,4 +1,4 @@
-# Python
+# A Simple Calculator for the Terminal
 My projects, written in Python for learning purposes.
 
 #### COMMANDS Termux
