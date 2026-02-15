@@ -1,2 +1,12 @@
 # Python
 meus projetos feito em python, a fim de aprendizagem 
+
+#### COMANDOS Termux
+```
+pkg i python -y && pkg i wget -y
+cd /data/date/com.termux/files/home
+mkdir PySCT
+cd PySCT
+wget https://github.com/Lucas-8bit/Python/releases/download/0.0.3/PySCT.py
+python PySCT.py
+``` 
