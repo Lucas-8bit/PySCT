@@ -3,7 +3,8 @@ My projects, written in Python for learning purposes.
 
 #### COMMANDS Termux
 ```
-pkg update && pkg upgrade
+termux-change-repo
+pkg update -y && pkg upgrade -y
 pkg i python -y && pkg i wget -y
 cd /data/date/com.termux/files/home
 mkdir PySCT
