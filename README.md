@@ -3,6 +3,7 @@ meus projetos feito em python, a fim de aprendizagem
 
 #### COMANDOS Termux
 ```
+pkg update && pkg upgrade
 pkg i python -y && pkg i wget -y
 cd /data/date/com.termux/files/home
 mkdir PySCT
