@@ -6,10 +6,6 @@ My projects, written in Python for learning purposes.
 termux-change-repo
 pkg update -y && pkg upgrade -y
 pkg i python -y && pkg i wget -y
-cd /data/data/com.termux/files/home
-mkdir PySCT
-cd PySCT
-wget https://github.com/Lucas-8bit/PySCT/releases/download/0.0.4/main.py
 python PySCT.py
 ``` 
 ### TERMUX DOWNLOAD LINK
